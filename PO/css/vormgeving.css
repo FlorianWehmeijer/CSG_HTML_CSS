@@ -4,14 +4,30 @@ html, body {
 }
 
 body {
-    background: #5d524c;
-    color: #c8c3bf;
+    background: #dcebff;
+    color: #2e2e2d;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     size: 14px;
     padding-left: 10%;
 }
 
-#vogel {
-    width: 225px;
-    height: auto;
+a {
+    text-decoration: none;
 }
+
+.navigatiebalk {
+    color: #2e2e2d;
+    font-size: 15px;
+    margin: 15px;
+    background-color: aqua;
+    text-align: center;
+    padding: 20px 40px;
+    text-decoration: none;
+    border-radius: 20px;
+    ;
+}
+
+#containernavigatiebalk {
+    display: flex;
+}
+

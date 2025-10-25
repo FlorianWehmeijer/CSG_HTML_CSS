@@ -1,0 +1,3 @@
+Colofon | Florian Wehmeijer A4b
+
+Navigatiebalk Gemaakt met hulp van: CSS Cheatsheet, Uitleg in de les, https://www.w3schools.com/css/css3_borders.asp,
