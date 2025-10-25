@@ -1,3 +1,6 @@
 Colofon | Florian Wehmeijer A4b
 
-Navigatiebalk Gemaakt met hulp van: CSS Cheatsheet, Uitleg in de les, https://www.w3schools.com/css/css3_borders.asp,
+Navigatiebalk Gemaakt met hulp van: CSS Cheatsheet, Uitleg in de les, https://www.w3schools.com/css/css3_borders.asp, https://www.w3schools.com/cssref/sel_hover.php
+Foto van het logo vanaf https://www.flachau.com/ 
+
+Foto op Homepage gevonden met de zoekopdracht "Skiing Flachau" vanaf https://www.aparthotel-stadler.at/en/winter-in-flachau/
