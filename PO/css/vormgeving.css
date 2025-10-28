@@ -2,16 +2,27 @@ html, body {
     padding: 0;
     margin: 0;
     background-color: #E6F2FF;
+    font-family: montserrat;
 }
 
+a {
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 18px;
+}
 
 .navigatiebalk {
     color: #1E293B;
-    font-family: montserrat;
     font-weight: bold;
-    font-size: 15px;
-    margin: 15px;
-    padding: 20px 40px;
+    font-size: 14px;
+    margin: 14px;
+    padding: 18px 36px;
     border-radius: 20px; 
 }
 
@@ -27,13 +38,33 @@ html, body {
     background-color: #cbd9ee;
 }
 
-a {
-    text-decoration: none;
-}
-
-
 .containers {
     display: flex; 
+}
+
+.plaatjeinfoblok {
+    background: black;
+    height: 180px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.tekstinfoblok {
+    background: rgb(255, 157, 157);
+    height: 150px;
+    width: 100%;
+}
+
+.knopinfoblok {
+    background-color: #93C6EB;
+    color: #1E293B;
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px auto;
+    padding: 18px 30px;
+    border-radius: 20px;
+    width: 150px;
 }
 
 #containerkaart {
@@ -44,22 +75,26 @@ a {
     border-radius: 10px;
 }
 
+
 #containerwelkomtekst {
     background-color: #93C6EB;
-    margin: 15px;
-    height: 300px;
+    color: #1E293B;
+    margin: 15px 15px 0px 15px;
+    height: auto;
     width: 98%;
     border-radius: 10px; 
+    text-align: center;
+    padding: 2px  0px 15px 0px;
 }
 
 #containerfoto img{
-    height: 600px;
+    height: 580px;
     width: 100%;
     object-fit: cover;
 }
 
 #flachaulogo {
-    height: 57.6px;
+    height: 50px;
     width: auto;
     padding: 0px;
 }
@@ -67,3 +102,4 @@ a {
 #homebutton {
     margin: 15px;
 }
+

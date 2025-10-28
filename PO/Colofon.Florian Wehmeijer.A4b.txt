@@ -7,3 +7,5 @@ Navigatiebalk Gemaakt met hulp van: CSS Cheatsheet, Uitleg in de les, https://ww
 Foto van het logo vanaf https://www.flachau.com/ 
 
 Foto op Homepage gevonden met de zoekopdracht "Skiing Flachau" vanaf https://www.aparthotel-stadler.at/en/winter-in-flachau/
+
+Informatie blok knop in het midden gezet met behulp van: https://www.joshwcomeau.com/css/center-a-div/
