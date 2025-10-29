@@ -1,7 +1,7 @@
 html, body {
     padding: 0;
     margin: 0;
-    background-color: #E6F2FF;
+    background-color: hsl(211, 100%, 95%);
     font-family: montserrat;
 }
 
@@ -61,7 +61,7 @@ p {
     font-weight: bold;
     text-align: center;
     font-size: 12px;
-    margin: 8px auto;
+    margin: 9.5px auto;
     padding: 18px 30px;
     border-radius: 20px;
     width: 150px;
@@ -69,7 +69,7 @@ p {
 
 #containerkaart {
     background-color: #93C6EB;
-    margin: 15px ;
+    margin: 5px auto 15px;
     height: 500px;
     width: 98%;
     border-radius: 10px;
@@ -79,7 +79,7 @@ p {
 #containerwelkomtekst {
     background-color: #93C6EB;
     color: #1E293B;
-    margin: 15px 15px 0px 15px;
+    margin: 20px auto 5px;
     height: auto;
     width: 98%;
     border-radius: 10px; 
