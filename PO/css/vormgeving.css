@@ -67,6 +67,23 @@ p {
     width: 150px;
 }
 
+.pistekaartmetinfo {
+    height: 400px;
+    width: 48%;
+    margin: auto;
+
+}
+
+#kaarttekst {
+    background-color: chartreuse;
+}
+
+#kaartimg {
+    background-color: blanchedalmond;
+}
+
+
+
 #containerkaart {
     background-color: #93C6EB;
     margin: 5px auto 15px;
