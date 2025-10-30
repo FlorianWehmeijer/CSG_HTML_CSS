@@ -68,30 +68,45 @@ p {
 }
 
 .pistekaartmetinfo {
-    height: 400px;
+    background-color: blueviolet;
+    height: 95%;
     width: 48%;
+    margin: 15px auto;
+    display: block;
+}
+
+.infokaart {
+    background-color: black;
+    width: 100%;
+    height: 100%; 
+    margin: 10px auto;
+}
+
+#infokaart1 {
+    margin-top: 0px;
+}
+
+#infokaart7 {
+    margin-bottom: 0px;
+}
+
+#pistekaart {
+    max-height: 100%;
+    max-width: 100%;
     margin: auto;
-
 }
-
-#kaarttekst {
-    background-color: chartreuse;
-}
-
-#kaartimg {
-    background-color: blanchedalmond;
-}
-
-
 
 #containerkaart {
     background-color: #93C6EB;
     margin: 5px auto 15px;
-    height: 500px;
     width: 98%;
     border-radius: 10px;
 }
 
+#containerinfokaart {
+    flex-direction: column;
+    justify-content: space-between;
+}
 
 #containerwelkomtekst {
     background-color: #93C6EB;

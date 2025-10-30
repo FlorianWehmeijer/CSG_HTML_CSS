@@ -12,3 +12,4 @@ Informatie blok knop in het midden gezet met behulp van: https://www.joshwcomeau
 margin auto ook gebruikt om alles in het midden te zetten
 
 idee van hoe de kaart is weergegeven komt vanaf: https://www.flachau-wagrain.nl/
+
