@@ -13,3 +13,5 @@ margin auto ook gebruikt om alles in het midden te zetten
 
 idee van hoe de kaart is weergegeven komt vanaf: https://www.flachau-wagrain.nl/
 
+https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/ Gebruikt om de tekst naast de kaart te zetten en goed de alignen.
+
