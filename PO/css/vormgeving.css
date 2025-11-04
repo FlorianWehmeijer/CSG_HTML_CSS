@@ -78,9 +78,13 @@ p {
     margin: 15px;
 }
 
-.icons {
+.iconskaart {
     height: 30px;
     margin-right: 10px;
+}
+
+.iconsskien {
+    height: 200px;
 }
 
 .infokaart {

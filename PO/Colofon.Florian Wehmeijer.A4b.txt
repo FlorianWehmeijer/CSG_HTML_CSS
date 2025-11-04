@@ -22,3 +22,5 @@ https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/ Gebr
 
 Tekst in de inleiding op de homepage gemaakt D.M.V. Chatgpt met de prompt "Schrijf een inleiding voor een website voor het skigebied flachau. bovenaan korte slogan achtige tekst en de kleine tekst een soort promo tekstje voor op de homepage"
 Voor tekst in de inleiding op de pagina skieen de zelfde prompt gebruikt.
+
+icoontjes van https://www.iconfinder.com/ 
