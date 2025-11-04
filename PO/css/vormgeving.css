@@ -97,12 +97,55 @@ p {
     color: rgb(228, 243, 255);
 }
 
+.border {
+    background: #6f9fc4;
+    height: 1px;
+}
+
+.kmpiste {
+    width: 300px;
+}
+
+.procentpiste {
+    margin-left: 520px;
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 45px;
+    text-align: center;
+}
+
+.standaardcontainer {
+    width: 98%;
+    border-radius: 10px;
+    background-color: #93C6EB;
+    color: #1E293B;
+    margin: 15px auto 15px;
+}
+
+.containertekstinleiding {
+    margin: 20px auto 5px; 
+    text-align: center;
+    padding: 2px  0px 15px 0px;
+}
+
+.containerfoto img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.footertekst {
+    color: #cbd9ee;
+}
+
+#linkcolofon:hover {
+    color: #5DADE2;
+}
+
 #infokaart1 {
     margin-top: 0px;
     color: #1E293B;
     font-size: 20px;
     font-weight: bold;
- }
+}
 
 #infokaart2 {
     background-color: #5DADE2;
@@ -122,34 +165,24 @@ p {
     width: 900px;
 }
 
-#containerkaart {
-    background-color: #93C6EB;
-    margin: 5px auto 15px;
-    width: 98%;
-    border-radius: 10px;
-}
-
 #containerinfobijkaart {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 
-#containerwelkomtekst {
-    background-color: #93C6EB;
-    color: #1E293B;
-    margin: 20px auto 5px;
-    height: auto;
-    width: 98%;
-    border-radius: 10px; 
-    text-align: center;
-    padding: 2px  0px 15px 0px;
+#containerkaart {
+    margin: 5px auto 15px;
 }
 
-#containerfoto img{
+#containerfotohomepage img{
     height: 580px;
-    width: 100%;
-    object-fit: cover;
+
+}
+
+#containerfotoskien img {
+    height: 300px;
+    object-position: 100% 72%;
 }
 
 #flachaulogo {
@@ -162,3 +195,13 @@ p {
     margin: 15px;
 }
 
+#footerlijn {
+    height: 3px;
+    background-color: #E31C23;
+}
+
+#footertekst {
+    background-color: #1E293B;
+    text-align: center;
+    padding: 15px;
+}

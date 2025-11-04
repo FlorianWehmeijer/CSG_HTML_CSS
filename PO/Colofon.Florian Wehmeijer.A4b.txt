@@ -7,11 +7,18 @@ Navigatiebalk Gemaakt met hulp van: CSS Cheatsheet, Uitleg in de les, https://ww
 Foto van het logo vanaf https://www.flachau.com/ 
 
 Foto op Homepage gevonden met de zoekopdracht "Skiing Flachau" vanaf https://www.aparthotel-stadler.at/en/winter-in-flachau/
+Foto op Page Skien gevonden met de zoekopdracht "Ski" vanaf https://www.skiamade.com/nl/Skipassen 
 
 Informatie blok knop in het midden gezet met behulp van: https://www.joshwcomeau.com/css/center-a-div/
 margin auto ook gebruikt om alles in het midden te zetten
 
 idee van hoe de kaart is weergegeven komt vanaf: https://www.flachau-wagrain.nl/
 
-https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/ Gebruikt om de tekst naast de kaart te zetten en goed de alignen.
+https://www.w3schools.com/css/css_colors_rgb.asp gebruikt om alleen de kleur achter de tekst een andere opacity te geven. (class: Procentpiste)
 
+https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/ Gebruikt om de tekst naast de kaart te zetten en goed de alignen. (id: Containerinfobijkaart )
+
+<header><body><footer> Gebruikt na een tip van mijn vader om het overzichterlijker te houden
+
+Tekst in de inleiding op de homepage gemaakt D.M.V. Chatgpt met de prompt "Schrijf een inleiding voor een website voor het skigebied flachau. bovenaan korte slogan achtige tekst en de kleine tekst een soort promo tekstje voor op de homepage"
+Voor tekst in de inleiding op de pagina skieen de zelfde prompt gebruikt.

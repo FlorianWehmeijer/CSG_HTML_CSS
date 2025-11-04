@@ -6,17 +6,19 @@
         <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="css/vormgeving.css">
     </head>
-    <body> 
+    <header>
         <div class="containers" id="containernavigatiebalk">
            <a href="Homepage.html"><div id="homebutton"><img src="images/flachaulogo.png" id="flachaulogo"></div></a>
            <a href="Skien.html"><div class="navigatiebalk">Skiën</div></a>
            <a href="SkiAmade.html"><div class="navigatiebalk">Ski Amade</div></a>
            <a href="Accomodaties.html"><div class="navigatiebalk">Accomodaties</div></a>
         </div>
-        <div id="containerfoto">
+    </header>  
+    <body>
+        <div class="containerfoto" id="containerfotohomepage">
            <img src="images/SkiFoto.jpg">
         </div>
-        <div id="containerwelkomtekst">
+        <div class="containertekstinleiding standaardcontainer" id="containerwelkomtekst">
             <H2>Welkom in Flachau - het hart van Ski amadé</H2>
             <p>Ontdek mooie pistes, verse sneeuw en de vriendelijke sfeer waar Flachau om bekendstaat. Hier draait alles om plezier in de bergen: van je eerste afdaling in de ochtend tot het samen genieten in een gezellige berghut aan het eind van de dag.
             <br>Of je nu komt om te skiën, te ontspannen of tijd door te brengen met familie en vrienden, in Flachau vind je alles voor een onvergetelijke winter. Laat je betoveren door de bergen en geniet van het echte wintergevoel.</p>
@@ -68,14 +70,25 @@
                 </div>
             </div>
         </div>
-        <div id="containerkaart" class="containers">
+        <div id="containerkaart" class="containers standaardcontainer">
             <div class="pistekaartmetinfo" id="containerinfobijkaart">
                 <div class="infokaart" id="infokaart1"><img src="images/icons/Ski_icon.png" class="icons">120 km piste totaal</div>
-                <div class="infokaart pistekleurtekst" id="infokaart2">34 km blauwe piste</div>
-                <div class="infokaart pistekleurtekst" id="infokaart3">82 km rode piste</div>
-                <div class="infokaart pistekleurtekst" id="infokaart4">4 km zwarte piste</div>
+                <div class="infokaart pistekleurtekst" id="infokaart2">
+                    <div class="kmpiste">34 km blauwe piste</div>
+                    <div class="procentpiste">29%</div>
+                </div>
+                <div class="infokaart pistekleurtekst" id="infokaart3">
+                    <div class="kmpiste">82 km rode piste</div>
+                    <div class="procentpiste">69%</div>
+                </div>
+                <div class="infokaart pistekleurtekst" id="infokaart4">
+                    <div class="kmpiste">4 km zwarte piste</div>
+                    <div class="procentpiste">2%</div>
+                </div>
                 <div class="infokaart"><img src="images/icons/Mountain_icon.png" class="icons"><h4>Dal:</h4>740 m - <h4>Top:</h4>1980 m</div>
+                <div class="border"></div>
                 <div class="infokaart"><img src="images/icons/Lift_icon.png" class="icons">12 gondels | 16 stoelliften | 16 sleepliften</div>
+                <div class="border"></div>
                 <div class="infokaart" id="infokaart7"><img src="images/icons/Car_icon2.png" class="icons">995 km v.a. Utrecht | reistijd: 10:15 uur</div>
             </div>
             <div class="pistekaartmetinfo">
@@ -83,4 +96,11 @@
             </div>
         </div>
     </body>
+    <footer>
+        <div id="footerlijn"></div>
+        <div id="footertekst">
+            <div class="footertekst">© Florian Wehmeijer</div>
+            <a href="Colofon.Florian Wehmeijer.A4b.txt" target="_blank"><div class="footertekst" id="linkcolofon">Colofon</div></a>
+        </div>
+    </footer>
 </html>
