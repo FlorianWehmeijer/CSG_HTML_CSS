@@ -11,6 +11,11 @@ Foto op Page Skien gevonden met de zoekopdracht "Ski" vanaf https://www.skiamade
 
 Informatie blok knop in het midden gezet met behulp van: https://www.joshwcomeau.com/css/center-a-div/
 margin auto ook gebruikt om alles in het midden te zetten
+foto in de eerste blok gevonden met zoekopdracht "ski rent" vanaf: https://www.norwaysbest.com/en/myrkdalen/ski-resort/ski-rental-in-myrkdalen.
+foto in 2e blok gevonden met zoekopdracht "ski accomodatie" vanaf: https://www.chalet.nl/thema/skipas-val-thorens.
+foto in 3e blok gevonden met zoekopdracht "ski school" vanaf : https://www.fischis-skischule.at/en/.
+foto in 4e blok gevonden met zoekopdracht "ski passen" vanaf: https://www.snowplaza.nl/weblog/skipasprijzen-2023-2024-vooraf-online-boeken-loont/.
+foto in 5e blok gevonden met zoekopdracht "snow space salzburg" vanaf : https://www.snow-space.com/openlifts. 
 
 idee van hoe de kaart is weergegeven komt vanaf: https://www.flachau-wagrain.nl/
 
