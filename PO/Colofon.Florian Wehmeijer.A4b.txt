@@ -24,3 +24,8 @@ Tekst in de inleiding op de homepage gemaakt D.M.V. Chatgpt met de prompt "Schri
 Voor tekst in de inleiding op de pagina skieen de zelfde prompt gebruikt.
 
 icoontjes van https://www.iconfinder.com/ 
+
+Box shadow er in gezet nadat Art op dit idee kwam en ik heb hiervoor https://htmlcheatsheet.com/css/ gebruikt
+
+Voor de tekst in de banner https://www.w3schools.com/css/css_positioning.asp gebruikt om de tekst in het plaatje te zetten op de pagina skien.
+https://kinsta.com/nl/blog/css-styling-afbeeldingen/ gebruikt om de afbeelding donkerder te maken.
