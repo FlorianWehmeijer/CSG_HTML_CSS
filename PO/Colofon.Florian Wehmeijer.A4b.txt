@@ -34,3 +34,7 @@ Box shadow er in gezet nadat Art op dit idee kwam en ik heb hiervoor https://htm
 
 Voor de tekst in de banner https://www.w3schools.com/css/css_positioning.asp gebruikt om de tekst in het plaatje te zetten op de pagina skien.
 https://kinsta.com/nl/blog/css-styling-afbeeldingen/ gebruikt om de afbeelding donkerder te maken.
+
+Linkjes op Skien pagina gevonden na het opzoeken van betrouwbare aanbieders voor skis huren,skipassen en skilessen.
+
+Alle knoppen die linken naar een ander stukje op een andere pagina gefixt via: https://stackoverflow.com/questions/17687328/getting-a-link-to-go-to-a-specific-section-on-another-page.
