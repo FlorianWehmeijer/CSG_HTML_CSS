@@ -9,8 +9,16 @@ a {
     text-decoration: none;
 }
 
+h1 {
+    font-size: 45px;
+}
+
 h2 {
     font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
 }
 
 h4 {
@@ -168,6 +176,19 @@ p {
     align-items: center;
 }
 
+.blokdorpen {
+    height: 350px;
+    width: 350px;
+    padding: 25px;
+    background-size: cover;
+    color: #E6F2FF;
+}
+
+.blokdorpen h3 {
+    padding: 10px;
+    text-align: center;
+}
+
 .containertekstinleiding {
     margin: 20px auto 5px; 
     text-align: center;
@@ -210,10 +231,60 @@ p {
     background-color: #2E2E2E;
 } 
 
+#blokdorp1 {
+    background-image: url(../images/Dorpfoto/Flachaufoto.png);
+}
+
+#blokdorp2 {
+   background-image: url(../images/Dorpfoto/Zauchenseefoto.png);
+}
+
+#blokdorp3 {
+   background-image: url(../images/Dorpfoto/Ebenfoto.png);
+}
+
+#blokdorp4 {
+   background-image: url(../images/Dorpfoto/filzmoosfoto.png);
+}
+
+#blokdorp5 {
+    background-image: url(../images/Dorpfoto/kleinarlfoto.png);
+}
+
+#blokdorp6 {
+   background-image: url(../images/Dorpfoto/Radtstadtfoto.png);
+}
+
+#blokdorp7 {
+   background-image: url(../images/Dorpfoto/stjohanfoto.png);
+}
+
+#blokdorp8 {
+    background-image: url(../images/Dorpfoto/wagrainfoto.png);
+}
 
 #pistekaart {
     height: 450px;
     width: 900px;
+}
+
+#containerfotogebied {
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #E6F2FF;
+}
+
+#containerfotogebied img {
+    height: 500px;
+    filter: brightness(80%);
+    box-shadow: 0px 5px 14px 0px rgba(0,0,0,0.25);
+}
+
+.containerblokkendorpen {
+    justify-content: space-around;
+    margin: 25px 0px 25px 0px;
 }
 
 #containerinfobijkaart {
@@ -227,12 +298,9 @@ p {
 }
 
 #containerfotohomepage img {
-    height: 580px;
     box-shadow: 0px 5px 14px 0px rgba(0,0,0,0.25);
+    height: 580px;
 }
-
-
-/* andere manier van blokken naast elkaar zetten mogelijk ook gebruiken voor homepage (container moet flexbol colum zijn) */
 
 #containerblokskien {
     justify-content: space-between;

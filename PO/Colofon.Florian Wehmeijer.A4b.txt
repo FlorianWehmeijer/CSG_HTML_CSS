@@ -26,7 +26,18 @@ https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/ Gebr
 <header><body><footer> Gebruikt na een tip van mijn vader om het overzichterlijker te houden
 
 Tekst in de inleiding op de homepage gemaakt D.M.V. Chatgpt met de prompt "Schrijf een inleiding voor een website voor het skigebied flachau. bovenaan korte slogan achtige tekst en de kleine tekst een soort promo tekstje voor op de homepage"
-Voor tekst in de inleiding op de pagina skieen de zelfde prompt gebruikt.
+Voor tekst in de inleiding op de pagina skieen en het skigebied de zelfde prompt gebruikt.
+
+Tekst in de blokken over de dorpen op de pagina het gebied geschreven door chatgpt: promt: Schrijf een kort stukje tekst bij elk dorp dat in een blokje kan op een website over het skigebied flachau op de pagina "het skigebied" (op deze pagina gaat het vooral om de omliggende dorpen) . Dorpen: Flachau, Zauchensee, eben im pogau, filzmoos, kleinarl.radstadt,st, johan,wagrain
+Plaatje in blok 1 gevonden met zoekopdracht "Flachau" via: https://www.expedia.nl/Flachau.dx6085447
+Plaatje in blok 2 gevonden met zoekopdracht "zauchensee ski dorp" via: https://www.zauchensee.com/en/zauchensee.html
+Plaatje in blok 3 gevonden met zoekopdracht "eben in pongau" via: https://www.snowplaza.nl/oostenrijk/salzburger-sportwelt/eben-im-pongau/
+Plaatje in blok 4 gevonden met zoekopdracht "filzmoos" via: https://www.snowplaza.nl/oostenrijk/salzburger-sportwelt/filzmoos/
+Plaatje in blok 5 gevonden met zoekopdracht "kleinarl" via: https://www.wagrain-kleinarl.at/en/infrastructure/kleinarl-kleinarler-bergbahnen.html
+Plaatje in blok 6 gevonden met zoekopdracht "radstadt" via: https://en.wikipedia.org/wiki/Radstadt
+Plaatje in blok 7 gevonden met zoekopdracht "st. johann im pongau" via: https://www.bergfex.at/sankt-johann-alpendorf/unterkunft/hotel/sankt-johann-im-pongau,50418/
+Plaatje in blok 8 gevonden met zoekopdracht "wagrain" via: https://alpentravel.com/nl/accommodation/apartment-dorf-wagrain-alpenleben/
+
 
 icoontjes van https://www.iconfinder.com/ 
 
@@ -39,4 +50,4 @@ Linkjes op Skien pagina gevonden na het opzoeken van betrouwbare aanbieders voor
 
 Alle knoppen die linken naar een ander stukje op een andere pagina gefixt via: https://stackoverflow.com/questions/17687328/getting-a-link-to-go-to-a-specific-section-on-another-page.
 
-Foto op pagina het skigebied gevonden met zoekopdracht: "flachau ski gebied" vanaf: https://www.snow-space.com/en/winter/region/directions/flachau
+Foto op pagina het skigebied gevonden met zoekopdracht: "salzburger sportwelt" vanaf: https://www.skiamade.com/nl/Skigebieden/Salzburger-Sportwelt
