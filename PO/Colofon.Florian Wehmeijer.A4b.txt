@@ -38,3 +38,5 @@ https://kinsta.com/nl/blog/css-styling-afbeeldingen/ gebruikt om de afbeelding d
 Linkjes op Skien pagina gevonden na het opzoeken van betrouwbare aanbieders voor skis huren,skipassen en skilessen.
 
 Alle knoppen die linken naar een ander stukje op een andere pagina gefixt via: https://stackoverflow.com/questions/17687328/getting-a-link-to-go-to-a-specific-section-on-another-page.
+
+Foto op pagina het skigebied gevonden met zoekopdracht: "flachau ski gebied" vanaf: https://www.snow-space.com/en/winter/region/directions/flachau
