@@ -106,6 +106,7 @@ p {
 .blokskienhoofdtekst {
     height: 60px;
     padding: 50px;
+    padding-bottom: 10px;
     font-size: 25px;
     font-weight: bold;
     align-items: center;
@@ -115,7 +116,7 @@ p {
     padding: 10px 50px 25px 50px;
     color: #1E293B;
     font-size: 20px;
-    height: 75px;
+    height: 130px;
 }
 
 .pistekleurtekst {
@@ -268,6 +269,12 @@ p {
     width: 900px;
 }
 
+#hoofdtekstdorpen {
+    text-align: center;
+    color: #1E293B;
+    margin: 40px;
+}
+
 #containerfotogebied {
     position: relative;
     text-align: center;
@@ -312,6 +319,13 @@ p {
     object-position: 100% 75%;
     filter: brightness(70%);
     box-shadow: 0px 5px 14px 0px rgba(0,0,0,0.25);
+}
+
+#containerteksthetskigebied {
+    text-align: center;
+    padding: 10px;
+    width: 1800px;
+    margin-top: 25px;
 }
 
 #containerfotoskien {
