@@ -63,9 +63,9 @@ p {
 }
 
 .tekstinfoblok {
-    background: rgb(255, 157, 157);
-    height: 150px;
-    width: 100%;
+    padding: 15px;
+    height: 90px;
+    width: 300px;
 }
 
 .knopinfoblok {
@@ -78,6 +78,10 @@ p {
     padding: 18px 30px;
     border-radius: 20px;
     width: 150px;
+}
+
+.knopinfoblok:hover {
+    background-color: #c8d1dba2;
 }
 
 .pistekaartmetinfo {
