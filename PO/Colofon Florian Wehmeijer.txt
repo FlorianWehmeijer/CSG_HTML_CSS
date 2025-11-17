@@ -1,0 +1,115 @@
+Colofon | Florian Wehmeijer A4b
+
+========================================
+KLEURENPALLET
+
+KleurenPallet: https://coolors.co/e6f2ff-afbfd5-4ba3e3-0e3c6e-e31c23-1e293b
+ & https://coolors.co/e6f2ff-afbfd5-93c6eb-0e3c6e-e31c23-1e293b
+
+========================================
+NAVIGATIE & LAYOUT
+
+Navigatiebalk Gemaakt met hulp van: CSS Cheatsheet, Uitleg in de les, https://www.w3schools.com/css/css3_borders.asp
+, https://www.w3schools.com/cssref/sel_hover.php
+
+Informatie blok knop in het midden gezet met behulp van: https://www.joshwcomeau.com/css/center-a-div/
+
+margin auto ook gebruikt om alles in het midden te zetten
+https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/
+ Gebruikt om de tekst naast de kaart te zetten en goed de alignen. (id: Containerinfobijkaart)
+
+<header><body><footer> Gebruikt na een tip van mijn vader om het overzichterlijker te houden
+========================================
+AFBEELDINGEN ALGEMEEN
+
+Foto van het logo vanaf https://www.flachau.com/
+
+========================================
+HOMEPAGE
+
+Foto op Homepage gevonden met de zoekopdracht "Skiing Flachau" vanaf https://www.aparthotel-stadler.at/en/winter-in-flachau/
+
+Infoblokken foto’s:
+foto in de eerste blok gevonden met zoekopdracht "ski rent" vanaf: https://www.norwaysbest.com/en/myrkdalen/ski-resort/ski-rental-in-myrkdalen
+
+foto in 2e blok gevonden met zoekopdracht "ski accomodatie" vanaf: https://www.chalet.nl/thema/skipas-val-thorens
+
+foto in 3e blok gevonden met zoekopdracht "ski school" vanaf : https://www.fischis-skischule.at/en/
+
+foto in 4e blok gevonden met zoekopdracht "ski passen" vanaf: https://www.snowplaza.nl/weblog/skipasprijzen-2023-2024-vooraf-online-boeken-loont/
+
+foto in 5e blok gevonden met zoekopdracht "snow space salzburg" vanaf : https://www.snow-space.com/openlifts
+
+========================================
+PAGINA SKIEN
+
+Foto op Page Skien gevonden met de zoekopdracht "Ski" vanaf https://www.skiamade.com/nl/Skipassen
+
+Voor de tekst in de banner https://www.w3schools.com/css/css_positioning.asp
+ gebruikt om de tekst in het plaatje te zetten op de pagina skien.
+https://kinsta.com/nl/blog/css-styling-afbeeldingen/
+ gebruikt om de afbeelding donkerder te maken.
+
+Tekst in de blokjes op pagina skien geschreven dmv chatgpt, promt: Schrijf korte, informatieve teksten voor drie blokken op een website over skiën in Flachau: een voor Ski huren, voor Skipassen en voor Skilessen.
+
+Linkjes op Skien pagina gevonden na het opzoeken van betrouwbare aanbieders voor skis huren,skipassen en skilessen.
+
+========================================
+PAGINA HET SKIGEBIED
+
+idee van hoe de kaart is weergegeven komt vanaf: https://www.flachau-wagrain.nl/
+
+Foto op pagina het skigebied gevonden met zoekopdracht: "salzburger sportwelt" vanaf: https://www.skiamade.com/nl/Skigebieden/Salzburger-Sportwelt
+
+https://www.w3schools.com/css/css_colors_rgb.asp
+ gebruikt om alleen de kleur achter de tekst een andere opacity te geven. (class: Procentpiste)
+
+Dorpen en afbeeldingen:
+Plaatje in blok 1 gevonden met zoekopdracht "Flachau" via: https://www.expedia.nl/Flachau.dx6085447
+
+Plaatje in blok 2 gevonden met zoekopdracht "zauchensee ski dorp" via: https://www.zauchensee.com/en/zauchensee.html
+
+Plaatje in blok 3 gevonden met zoekopdracht "eben in pongau" via: https://www.snowplaza.nl/oostenrijk/salzburger-sportwelt/eben-im-pongau/
+
+Plaatje in blok 4 gevonden met zoekopdracht "filzmoos" via: https://www.snowplaza.nl/oostenrijk/salzburger-sportwelt/filzmoos/
+
+Plaatje in blok 5 gevonden met zoekopdracht "kleinarl" via: https://www.wagrain-kleinarl.at/en/infrastructure/kleinarl-kleinarler-bergbahnen.html
+
+Plaatje in blok 6 gevonden met zoekopdracht "radstadt" via: https://en.wikipedia.org/wiki/Radstadt
+
+Plaatje in blok 7 gevonden met zoekopdracht "st. johann im pongau" via: https://www.bergfex.at/sankt-johann-alpendorf/unterkunft/hotel/sankt-johann-im-pongau,50418/
+
+Plaatje in blok 8 gevonden met zoekopdracht "wagrain" via: https://alpentravel.com/nl/accommodation/apartment-dorf-wagrain-alpenleben/
+
+Deze fotos zijn donkerder gemaakt dmv photoshop, ik heb het via css geprobeert en dat lukte mij niet dus ik heb het zo opgelost.
+
+Tekst in het blauwe blok op pagina skigebied geschreven door chatgpt met de promt: Schrijf een tekstje Praktische informatie over het skigebied flachau (als voorbeeld welke stijl de andere teksjes toevegoed in de promt)
+
+Tekst in de blokken over de dorpen op de pagina het gebied geschreven door chatgpt: promt: Schrijf een kort stukje tekst bij elk dorp dat in een blokje kan op een website over het skigebied flachau op de pagina "het skigebied" (op deze pagina gaat het vooral om de omliggende dorpen). Dorpen: Flachau, Zauchensee, eben im pogau, filzmoos, kleinarl.radstadt,st, johan,wagrain
+
+========================================
+PAGINA ACCOMODATIES
+
+tekst op de pagina accomodaties geschreven door chatgpt met de promt "Schrijf een tekstje voor op de pagina accomodaties over ontdek alle accomodaties in flachau iets in die richting als een soort inleiding van de pagina. daaronder komen kleine kaartjes met de aanbieders".
+Foto op pagina accomodaties gevonden met zoekopdracht: "wintersport accommodaties" vanaf: https://www.kirchberg-kitzbuhel.nl/accommodaties/vakantiehuizen
+
+logo van boeking.com gevonden met zoekopdracht: "booking.com logo" via https://news.booking.com/
+
+logo van Tui gevonden met zoekopdracht: "Tui logo" via https://nl.wikipedia.org/wiki/Bestand:TUI_Logo_2016.svg
+
+logo van expedia gevonden met zoekopdracht: "expedia logo" via https://worldvectorlogo.com/nl/logo/expedia
+
+logo van chaletsPlus gevonden met zoekopdracht: "Chaletsplus logo" via https://www.chaletsplus.com/en/
+
+========================================
+OVERIGE BRONNEN
+
+icoontjes van https://www.iconfinder.com/
+
+Box shadow er in gezet nadat Art op dit idee kwam en ik heb hiervoor https://htmlcheatsheet.com/css/
+ gebruikt
+Alle knoppen die linken naar een ander stukje op een andere pagina gefixt via: https://stackoverflow.com/questions/17687328/getting-a-link-to-go-to-a-specific-section-on-another-page
+
+
+Gehele colofon laten herschrikken en verduidelijken door chatgpt met de promt: "Maak deze colofon duidelijker en overzichtelijker (veranders niets aan de verwoording of laat geen tekst weg)"
+Oude colofon te vinden in het zip bestand onder de naam Colofon Oud
